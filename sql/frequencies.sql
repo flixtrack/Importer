@@ -1,0 +1,4 @@
+SET NAMES 'utf8' COLLATE 'utf8_general_ci';
+USE flixtrack;
+
+LOAD DATA LOCAL INFILE './data/frequencies.txt' INTO TABLE frequencies CHARACTER SET UTF8 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' IGNORE 1 LINES;
