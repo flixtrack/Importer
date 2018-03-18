@@ -1,5 +1,5 @@
 # Importer
-![flixtrack](https://avatars2.githubusercontent.com/u/37507138?s=60&v=4) Import GTFS Data to MySQL for database usage.
+![flixtrack](https://avatars2.githubusercontent.com/u/37507138?s=16&v=4) Import GTFS Data to MySQL for database usage.
 
 # Structure
 ![Preview](preview.png?v2)
