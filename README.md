@@ -2,4 +2,4 @@
 Import GTFS Data to MySQL
 
 # Structure
-!(Preview)[preview.png]
+![Preview](preview.png)
