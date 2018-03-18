@@ -1,8 +1,8 @@
 # Importer
-Import GTFS Data to MySQL for database usage.
+![flixtrack](https://avatars2.githubusercontent.com/u/37507138?s=60&v=4) Import GTFS Data to MySQL for database usage.
 
 # Structure
-![Preview](preview.png)
+![Preview](preview.png?v2)
 
 # Usage
 - Upload the importer to your server.
